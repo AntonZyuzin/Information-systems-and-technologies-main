@@ -1,0 +1,55 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\bin\Debug\Interface2.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\bin\Debug\Interface2.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\bin\Debug\Implementation2.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\bin\Debug\Implementation2.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.Form2.resources
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.csproj.CopyComplete
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Interface2\obj\Debug\Interface2.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.Form2.resources
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CopyComplete
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.Form2.resources
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CopyComplete
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.Form2.resources
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CopyComplete
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.pdb
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.dll
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Interface2.pdb
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.dll
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\bin\Debug\Implementation2.pdb
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.Form2.resources
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.csproj.CopyComplete
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.dll
+D:\Программирование\Information-systems-and-technologies-main\task2\Interface2\obj\Debug\Interface2.pdb

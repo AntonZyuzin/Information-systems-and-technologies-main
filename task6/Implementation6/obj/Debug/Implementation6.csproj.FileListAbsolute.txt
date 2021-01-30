@@ -1,0 +1,35 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\bin\Debug\Implementation6.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\bin\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\bin\Debug\Implementation6.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\bin\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.pdb
+D:\Программирование\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.dll
+D:\Программирование\Information-systems-and-technologies-main\task6\Implementation6\bin\Debug\Implementation6.pdb
+D:\Программирование\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+D:\Программирование\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+D:\Программирование\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.dll
+D:\Программирование\Information-systems-and-technologies-main\task6\Implementation6\obj\Debug\Implementation6.pdb

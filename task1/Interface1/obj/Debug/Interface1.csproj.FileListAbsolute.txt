@@ -1,0 +1,49 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Interface1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Interface1.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Implementation1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.Form1.resources
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.Form1.resources
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.pdb
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.dll
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Interface1.pdb
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.dll
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\bin\Debug\Implementation1.pdb
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.dll
+D:\Программирование\Information-systems-and-technologies-main\task1\Interface1\obj\Debug\Interface1.pdb

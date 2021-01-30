@@ -1,0 +1,29 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Implementation2\bin\Debug\Implementation2.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Implementation2\bin\Debug\Implementation2.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Implementation2\obj\Debug\Implementation2.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Implementation2\obj\Debug\Implementation2.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Implementation2\obj\Debug\Implementation2.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task2\Implementation2\obj\Debug\Implementation2.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.pdb
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.dll
+C:\Users\anton\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.pdb
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csprojAssemblyReference.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csproj.CoreCompileInputs.cache
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.dll
+C:\Users\Ewgraf\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.pdb
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csproj.CoreCompileInputs.cache
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.dll
+C:\Users\sgridnev\Desktop\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.pdb
+D:\Программирование\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.dll
+D:\Программирование\Information-systems-and-technologies-main\task2\Implementation2\bin\Debug\Implementation2.pdb
+D:\Программирование\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csprojAssemblyReference.cache
+D:\Программирование\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.csproj.CoreCompileInputs.cache
+D:\Программирование\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.dll
+D:\Программирование\Information-systems-and-technologies-main\task2\Implementation2\obj\Debug\Implementation2.pdb
